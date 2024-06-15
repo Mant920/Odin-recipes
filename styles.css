@@ -1,4 +1,13 @@
 h1{
     font-family: 'Times New Roman', Times, serif;
     color: darkcyan;
+    text-align: center;
+}
+.recipes{
+    margin-top: 20px;
+}
+.recipes li
+{
+    display: inline;
+    margin-right: 8px;
 }
